@@ -32,6 +32,7 @@ github_username:  david-p-burton
 
 # Build settings
 theme: hacker
+
 plugins:
   - jekyll-feed
 
