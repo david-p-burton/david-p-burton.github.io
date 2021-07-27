@@ -1,19 +1,40 @@
 title: David Burton
 email: david.p.burton@gmail.com
+
+
+# author:
+#   name     : "David Burton"
+#   avatar   : "assets/images/facePic.jpg"
+#   bio      : "Irish software engineer.
+#   I post about interesting tech I have worked with.
+#   See something you want to know more about? Email me! :)"
+#   location : "Dublin, Ireland"
+#   links :
+#     - label: "GitHub"
+#     - icon: ""
+#     - url: "https://github.com/david-p-burton"
+
+
 description: >-
-  Stay a while and listen! I'm David Burton, an Irish software engineer.
+  I'm David Burton, an Irish software engineer.
   This is where I post about some of my work and what is going on in my life technology-wise.
   If there is anything on this site that interests you and you would like to know more, feel
   free to email me and I'll get back to you as soon as possible!
 baseurl: ""
-url: ""
+url: "https://david-p-burton.github.io"
 twitter_username: ''
-github_username:  david-p-burton
+github_username: david-p-burton
+repository: "davidp-p-burton/david-p-burton.github.io"
+# teaser: /assets/images/facePic.jpg
+# logo: "/assets/images/88x88.png"
+# breadcrumbs: true
+show_date: true
+search: true
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
+minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "mint", "neon", "default", "plum", "sunrise" "dirt"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme 
-  
+

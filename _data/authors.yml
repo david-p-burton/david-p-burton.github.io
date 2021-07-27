@@ -1,0 +1,14 @@
+David Burton:
+  name     : "David Burton"
+  avatar   : "assets/images/facePic.jpg"
+  bio      : "Irish software engineer.
+  I post about interesting tech I have worked with.
+  See something you want to know more about? Email me! :)"
+  location : "Dublin, Ireland"
+  links :
+    - label: "Email Me"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:david.p.burton@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/david-p-burton"
