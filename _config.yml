@@ -1,19 +1,10 @@
 title: David Burton
 email: david.p.burton@gmail.com
 
-
-# author:
-#   name     : "David Burton"
-#   avatar   : "assets/images/facePic.jpg"
-#   bio      : "Irish software engineer.
-#   I post about interesting tech I have worked with.
-#   See something you want to know more about? Email me! :)"
-#   location : "Dublin, Ireland"
-#   links :
-#     - label: "GitHub"
-#     - icon: ""
-#     - url: "https://github.com/david-p-burton"
-
+collections:
+  pages:
+    output: true
+    permalink: /:name
 
 description: >-
   I'm David Burton, an Irish software engineer.
@@ -25,9 +16,6 @@ url: "https://david-p-burton.github.io"
 twitter_username: ''
 github_username: david-p-burton
 repository: "davidp-p-burton/david-p-burton.github.io"
-# teaser: /assets/images/facePic.jpg
-# logo: "/assets/images/88x88.png"
-# breadcrumbs: true
 show_date: true
 search: true
 

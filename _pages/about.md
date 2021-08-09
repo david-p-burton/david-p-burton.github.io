@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: tag
 author_profile: true
 title: About
 permalink: /about/
